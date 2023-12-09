@@ -1,0 +1,36 @@
+AbyssOfFire/[Ll]ibrary/
+AbyssOfFire/[Tt]emp/
+AbyssOfFire/[Oo]bj/
+AbyssOfFire/[Ll]ogs/
+.vs/
+Binaries/
+StarterContent/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/
+
+.cache
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.akd
+*.prof
+*.validationcache
+*.pdb
+*.mdb
+*.opendb
+*.dwlt
+*.opendb
+*.VC.db
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+출처: https://matthewkim.tistory.com/entry/gitignore-
+설정후에-정상적으로-적용되지-않는-문제-해결하기 [Matt.Kim's Study]
